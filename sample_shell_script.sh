@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#create a Folder
+#create a folder
 mkdir uday
 
 # create two files
