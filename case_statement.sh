@@ -1,5 +1,5 @@
 #!/bin/bash
-# Case statement for days of the week
+# .Case statement for days of the week
 echo "Enter a day (1-7):"
 read day
 case $day in
