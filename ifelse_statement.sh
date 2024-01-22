@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+#This is a basic if else statement
 a=4
 b=10
 
