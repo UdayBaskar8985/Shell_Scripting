@@ -4,7 +4,7 @@
 #Author: Uday
 #Date: 14/01/2024
 #
-#This Script outputs the node health
+#This Script outputs the node health of a machine
 #
 #Version: v1
 #####################################
