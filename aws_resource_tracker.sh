@@ -7,7 +7,7 @@
 # 
 # Version: v1
 #
-#This Script will report the AWS resource usage
+#This Script will report the AWS resource usage(AWS EC2, Amazon S3, AWS Lambda and AWS IAM).
 #######################
 
 set -x
